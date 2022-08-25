@@ -1,6 +1,6 @@
 <div align="center">
 
-![snake gif](https://github.com/hanjoon18/hanjoon18/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/apnalkkamkkamhanjoon/apnalkkamkkamhanjoon/blob/output/github-contribution-grid-snake.gif)
 
 ### 🎈 Han Joon 🎈
  <p>
@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjoon18&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apnalkkamkkamhanjoon&&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 </div>
