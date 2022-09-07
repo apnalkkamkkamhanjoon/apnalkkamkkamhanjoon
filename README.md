@@ -1,14 +1,3 @@
-<div align="center">
- 
-### 🎈 Han Joon 🎈
- 
- <p>
+### 🎈 다시 시작해 봅니다!🎈
+항상 열심히
 <a href="https://www.instagram.com/hanjoon87/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a></p>
- 
-### 📖 Studying 📖<br>
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apnalkkamkkamhanjoon&&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-
-</div>
