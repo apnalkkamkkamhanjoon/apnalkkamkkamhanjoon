@@ -1,2 +1,2 @@
-### 🌱Growin
+## 🌱Growing
 insta : hanjoon87
