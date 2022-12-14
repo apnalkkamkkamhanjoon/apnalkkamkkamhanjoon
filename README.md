@@ -1,4 +1,5 @@
 ## 🥕나는 한준~!🥕
+insta : hanjoon87<br />
 gmail : qw2661807@gmail.com<br />
-velog : https://velog.io/@threejoon<br />
-insta : hanjoon87
+velog : https://velog.io/@threejoon
+
