@@ -1,5 +1,4 @@
-## 감각적인 나
-insta : hanjoon87<br />
+## H2 My name iz HanJoon!!!!
+## I like to Pizzzza!!!
 gmail : qw2661807@gmail.com<br />
-velog : https://velog.io/@threejoon
 
